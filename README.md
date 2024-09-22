@@ -1,3 +1,5 @@
+![Header](./your-header-Gui.png)
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -38,8 +40,5 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/MelzitoZz/count.svg?"  />
 </div>
-
-![Header](./your-header-image-name.png)
-
 
 ###
