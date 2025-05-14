@@ -32,6 +32,9 @@
   <a href="mailto:guilherme.esber@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
+  <a href="https://lattes.cnpq.br/1858745640388458" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Curr%C3%ADculo%20Lattes&logo=education&label=&color=blue&logoColor=white&style=for-the-badge" height="35" alt="curriculo lattes logo" />
+  </a>
 </div>
 
 ###
