@@ -53,6 +53,8 @@ Oi! Sou iniciante na área de desenvolvimento de jogos e estou em busca de apren
   </a>
 </div>
 
+---
+
 ## Curriculo
 
 
