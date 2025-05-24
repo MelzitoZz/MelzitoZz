@@ -1,4 +1,4 @@
-name: Generate cobrinha animation
+name: Cobrinha
 
 on:
   schedule:
