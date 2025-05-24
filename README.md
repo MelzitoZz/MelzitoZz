@@ -17,7 +17,6 @@ Oi! Sou iniciante na área de desenvolvimento de jogos e estou em busca de apren
 ## Linguagens 💻
 
 <div align="center">
-  <div style="display: flex; flex-wrap: wrap; justify-content: center;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
@@ -30,13 +29,11 @@ Oi! Sou iniciante na área de desenvolvimento de jogos e estou em busca de apren
 ## Ferramentas 🔧
 
 <div align="center">
-  <div style="display: flex; flex-wrap: wrap; justify-content: center;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo" />
-  </div>
 </div>
 
 ---
@@ -80,3 +77,5 @@ Oi! Sou iniciante na área de desenvolvimento de jogos e estou em busca de apren
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MelzitoZz/MelzitoZz/output/pacman-contribution-graph.svg">
   <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/MelzitoZz/MelzitoZz/output/pacman-contribution-graph.svg">
 </picture>
+
+---
