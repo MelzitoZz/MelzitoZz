@@ -2,7 +2,7 @@ name: Pacman
 
 on:
   schedule:
-    - cron: "0 */24 * * *"
+    - cron: "* */12 * * *"
 
   workflow_dispatch:
 
