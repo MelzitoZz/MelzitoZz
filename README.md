@@ -1,4 +1,4 @@
-![Header Image](https://github.com/MelzitoZz/MelzitoZz/blob/main/header-image.png) 
+![Header Image](https://github.com/MelzitoZz/MelzitoZz/blob/main/header-image.png)[![GitHub followers](https://img.shields.io/github/followers/MelzitoZz?style=social)](https://github.com/MelzitoZz)
 <br>
 
 <div align="center">
@@ -8,7 +8,7 @@
 
 ---
 
-## Sobre mim 👦 [![GitHub followers](https://img.shields.io/github/followers/MelzitoZz?style=social)](https://github.com/MelzitoZz)
+## Sobre mim 👦
 
 Oi! Sou iniciante na área de desenvolvimento de jogos e estou em busca de aprender cada vez mais sobre esse universo, que é minha paixão. Meu objetivo é criar jogos marcantes.
 
