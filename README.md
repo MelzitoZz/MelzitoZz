@@ -1,9 +1,14 @@
 ![Header Image](https://github.com/MelzitoZz/MelzitoZz/blob/main/header-image.png) 
-[![GitHub followers](https://img.shields.io/github/followers/MelzitoZz?style=social)](https://github.com/MelzitoZz)
+<br>
+
+<div align="center">
+  <p><b>Visitantes</b></p>  
+  <img align="center" src="https://profile-counter.glitch.me/{MelzitoZz}/count.svg" />
+</div>
 
 ---
 
-## Sobre mim 👦
+## Sobre mim 👦 [![GitHub followers](https://img.shields.io/github/followers/MelzitoZz?style=social)](https://github.com/MelzitoZz)
 
 Oi! Sou iniciante na área de desenvolvimento de jogos e estou em busca de aprender cada vez mais sobre esse universo, que é minha paixão. Meu objetivo é criar jogos marcantes.
 
@@ -59,17 +64,6 @@ Oi! Sou iniciante na área de desenvolvimento de jogos e estou em busca de apren
 
 ---
 
-<br>
-
-<div align="center">
-  <p><b>Visitantes</b></p>  
-  <img align="center" src="https://profile-counter.glitch.me/{MelzitoZz}/count.svg" />
-</div>
-
----
-
-### Contribuições no GitHub
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MelzitoZz/MelzitoZz/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MelzitoZz/MelzitoZz/output/github-contribution-grid-snake.svg">
@@ -77,8 +71,6 @@ Oi! Sou iniciante na área de desenvolvimento de jogos e estou em busca de apren
 </picture>
 
 ---
-
-### Gráfico Pacman
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MelzitoZz/MelzitoZz/output/pacman-contribution-graph-dark.svg">
