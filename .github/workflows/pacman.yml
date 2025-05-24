@@ -1,8 +1,8 @@
 name: Pacman
 
 on:
-  schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
+  schedule:
+    - cron: "0 */24 * * *"
 
   workflow_dispatch:
 
