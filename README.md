@@ -60,3 +60,8 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MelzitoZz/MelzitoZz/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MelzitoZz/MelzitoZz/output/pacman-contribution-graph.svg">
 </picture>
+
+
+###
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=6bp6x8drs977sj9za7aj5ezil&count=5&width=1000&unique=true)
