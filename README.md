@@ -1,4 +1,4 @@
-![Header Image]([https://github.com/MelzitoZz/MelzitoZz/blob/main/header-image.png])
+![Header Image](https://github.com/MelzitoZz/MelzitoZz/blob/main/header-image.png)
 
 ###
 
@@ -47,10 +47,10 @@
 
 ###
 
-<picture align="center">
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MelzitoZz/MelzitoZz/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MelzitoZz/MelzitoZz/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MelzitoZz/MelzitoZz/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MelzitoZz/MelzitoZz/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/MelzitoZz/MelzitoZz/output/github-contribution-grid-snake.svg">
 </picture>
 
 ###
@@ -58,10 +58,9 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MelzitoZz/MelzitoZz/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MelzitoZz/MelzitoZz/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MelzitoZz/MelzitoZz/output/pacman-contribution-graph.svg">
+  <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/MelzitoZz/MelzitoZz/output/pacman-contribution-graph.svg">
 </picture>
-
 
 ###
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=6bp6x8drs977sj9za7aj5ezil&count=5&width=1000&unique=true)
+![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=6bp6x8drs977sj9za7aj5ezil&count=5&width=1000&unique=true)
