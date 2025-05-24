@@ -1,6 +1,14 @@
-![Header Image](https://github.com/MelzitoZz/MelzitoZz/blob/main/header-image.png)
+![Header Image](https://github.com/MelzitoZz/MelzitoZz/blob/main/header-image.png) [![GitHub followers](https://img.shields.io/github/followers/MelzitoZz?style=social)](https://github.com/MelzitoZz)
 
-###
+---
+
+## Sobre mim
+
+Oi! Sou iniciante na área de desenvolvimento de jogos e estou em busca de aprender cada vez mais sobre esse universo, que é minha paixão. Meu objetivo é criar jogos marcantes.
+
+---
+
+## Linguagens
 
 <br clear="both">
 
@@ -10,6 +18,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+</div>
+
+---
+
+## Ferramentas
+
+<br clear="both">
+
+<div align="center">
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
   <img width="12" />
@@ -18,7 +35,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="30" alt="unity logo"  />
 </div>
 
-###
+---
+
+## Redes Sociais
 
 <br clear="both">
 
@@ -32,18 +51,29 @@
   <a href="mailto:guilherme.esber@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
-  <a href="https://lattes.cnpq.br/1858745640388458" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Curr%C3%ADculo%20Lattes&logo=education&label=&color=blue&logoColor=white&style=for-the-badge" height="35" alt="curriculo lattes logo" />
-  </a>
 </div>
 
-###
+## Curriculo
+
 
 <br clear="both">
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/MelzitoZz/count.svg?"  />
+<a href="https://lattes.cnpq.br/1858745640388458" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Curr%C3%ADculo%20Lattes&logo=education&label=&color=blue&logoColor=white&style=for-the-badge" height="35" alt="curriculo lattes logo" />
+  </a>
 </div>
+
+---
+
+<br clear="both">
+
+<div align="center">
+<br><p align="centre"><b>Visitantes</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{MelzitoZz}/count.svg" /></p> 
+<br></div>
+
+---
 
 ###
 
@@ -53,6 +83,8 @@
   <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/MelzitoZz/MelzitoZz/output/github-contribution-grid-snake.svg">
 </picture>
 
+---
+
 ###
 
 <picture>
@@ -61,6 +93,4 @@
   <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/MelzitoZz/MelzitoZz/output/pacman-contribution-graph.svg">
 </picture>
 
-###
-
-![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=6bp6x8drs977sj9za7aj5ezil&count=5&width=1000&unique=true)
+---
