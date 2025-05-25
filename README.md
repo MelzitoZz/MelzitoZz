@@ -19,11 +19,11 @@ Oi! Sou iniciante na área de desenvolvimento de jogos e estou em busca de apren
 ## Linguagens 💻
 
 <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Logo da linguagem Python" />
     <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="Logo da linguagem C" />
     <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="Logo da linguagem C++" />
 </div>
 
 ---
@@ -31,11 +31,11 @@ Oi! Sou iniciante na área de desenvolvimento de jogos e estou em busca de apren
 ## Ferramentas 🔧
 
 <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Logo do Git" />
     <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="Logo do GitHub" />
     <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="Logo da Unity" />
 </div>
 
 ---
@@ -43,14 +43,14 @@ Oi! Sou iniciante na área de desenvolvimento de jogos e estou em busca de apren
 ## Redes Sociais e Contato 🌐
 
 <div align="center">
-  <a href="https://www.instagram.com/guilherme_esber/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35" alt="instagram logo" />
+  <a href="https://www.instagram.com/guilherme_esber/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35" alt="Logo do Instagram" />
   </a>
-  <a href="https://discord.gg/vXPj84MD" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="35" alt="discord logo" />
+  <a href="https://discord.gg/vXPj84MD" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="35" alt="Logo do Discord" />
   </a>
-  <a href="mailto:guilherme.esber@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="gmail logo" />
+  <a href="mailto:guilherme.esber@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="Logo do Gmail" />
   </a>
 </div>
 
@@ -59,8 +59,8 @@ Oi! Sou iniciante na área de desenvolvimento de jogos e estou em busca de apren
 ## Currículo 📄
 
 <div align="center">
-  <a href="https://lattes.cnpq.br/1858745640388458" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Curr%C3%ADculo%20Lattes&logo=education&label=&color=blue&logoColor=white&style=for-the-badge" height="35" alt="currículo lattes logo" />
+  <a href="https://lattes.cnpq.br/1858745640388458" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/static/v1?message=Curr%C3%ADculo%20Lattes&logo=education&label=&color=blue&logoColor=white&style=for-the-badge" height="35" alt="Link para o Currículo Lattes" />
   </a>
 </div>
 
