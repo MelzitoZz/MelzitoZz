@@ -6,7 +6,7 @@
   <br>
   <img src="https://profile-counter.glitch.me/MelzitoZz/count.svg" />
   <br>
-  <b>👀 Visitantes</b>
+  <b>Visitantes 👀</b>
   <br>
 </div>
 
