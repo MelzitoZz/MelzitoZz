@@ -26,6 +26,8 @@ Oi! Sou iniciante na área de desenvolvimento de jogos e estou em busca de apren
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="Logo da linguagem C" />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="Logo da linguagem C++" />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="Logo da linguagem C#" />
 </div>
 
 ---
