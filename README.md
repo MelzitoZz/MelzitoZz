@@ -12,7 +12,7 @@
 
 ## Sobre mim 👦
 
-Oi! Sou iniciante na área de desenvolvimento de jogos e estou em busca de aprender cada vez mais sobre esse universo, que é minha paixão. Meu objetivo é criar jogos marcantes.
+Oi! Sou iniciante na área de desenvolvimento de jogos e estou em busca de aprender cada vez mais sobre esse universo, que é a minha paixão. Quero criar jogos marcantes e pretendo lançar meu primeiro jogo até o final de 2025, além de desenvolver um grande projeto até 2029.
 
 ---
 
