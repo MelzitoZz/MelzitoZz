@@ -1,9 +1,11 @@
-![Header Image](https://github.com/MelzitoZz/MelzitoZz/blob/main/header-image.png)[![GitHub followers](https://img.shields.io/github/followers/MelzitoZz?style=social)](https://github.com/MelzitoZz)
-<br>
-
 <div align="center">
-  <p><b>Visitantes</b></p>  
-  <img align="center" src="https://profile-counter.glitch.me/{MelzitoZz}/count.svg" />
+  
+  ![Header Image](https://github.com/MelzitoZz/MelzitoZz/blob/main/header-image.png)
+  
+  [![GitHub followers](https://img.shields.io/github/followers/MelzitoZz?style=social)](https://github.com/MelzitoZz)
+  <br>
+  <img src="https://profile-counter.glitch.me/MelzitoZz/count.svg" />
+  
 </div>
 
 ---
