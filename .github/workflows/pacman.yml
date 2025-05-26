@@ -1,4 +1,4 @@
-name: Pacman
+name: Geração Automática do Gráfico Pacman
 
 on:
   schedule:
@@ -8,23 +8,22 @@ on:
 
   push:
     branches:
-    - main
+      - main
 
 jobs:
-  generate:
+  gerar_grafico_pacman:
     permissions:
       contents: write
     runs-on: ubuntu-latest
     timeout-minutes: 5
 
     steps:
-      - name: generate pacman-contribution-graph.svg
+      - name: Gerar gráfico de contribuições estilo Pacman
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
 
-
-      - name: push pacman-contribution-graph.svg to the output branch
+      - name: Enviar gráfico para a branch 'output'
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
