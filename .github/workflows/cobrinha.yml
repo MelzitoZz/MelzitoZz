@@ -11,7 +11,7 @@ on:
       - main
 
 jobs:
-  gerar_cobrinha:
+  gerar_grafico_cobrinha:
     permissions:
       contents: write
     runs-on: ubuntu-latest
