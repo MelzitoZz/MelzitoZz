@@ -18,6 +18,10 @@ jobs:
     timeout-minutes: 5
 
     steps:
+    
+      - name: Criar pasta dist
+        run: mkdir -p dist
+        
       - name: Gerar gráfico de contribuições estilo Cobrinha
         uses: Platane/snk/svg-only@v3
         with:
