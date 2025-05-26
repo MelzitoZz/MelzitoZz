@@ -71,17 +71,17 @@ Oi! Sou iniciante na área de desenvolvimento de jogos e estou em busca de apren
 ---
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MelzitoZz/MelzitoZz/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MelzitoZz/MelzitoZz/output/github-contribution-grid-snake.svg">
-  <img alt="Gráfico de Contribuição - Cobrinha" src="https://raw.githubusercontent.com/MelzitoZz/MelzitoZz/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MelzitoZz/MelzitoZz/output-cobrinha/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MelzitoZz/MelzitoZz/output-cobrinha/github-contribution-grid-snake.svg">
+  <img alt="Gráfico de Contribuição - Cobrinha" src="https://raw.githubusercontent.com/MelzitoZz/MelzitoZz/output-cobrinha/github-contribution-grid-snake.svg">
 </picture>
 
 ---
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MelzitoZz/MelzitoZz/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MelzitoZz/MelzitoZz/output/pacman-contribution-graph.svg">
-  <img alt="Gráfico de Contribuição - Pacman" src="https://raw.githubusercontent.com/MelzitoZz/MelzitoZz/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MelzitoZz/MelzitoZz/output-pacman/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MelzitoZz/MelzitoZz/output-pacman/pacman-contribution-graph.svg">
+  <img alt="Gráfico de Contribuição - Pacman" src="https://raw.githubusercontent.com/MelzitoZz/MelzitoZz/output-pacman/pacman-contribution-graph.svg">
 </picture>
 
 ---
