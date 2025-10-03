@@ -14,20 +14,22 @@
 
 ## Sobre mim 👦
 
-Oi! Sou iniciante na área de desenvolvimento de jogos e estou em busca de aprender cada vez mais sobre esse universo, que é a minha paixão. Quero criar jogos marcantes e pretendo lançar meu primeiro jogo até o final de 2025, além de desenvolver um grande projeto até 2029.
+Sou estudante de Bacharelado em Engenharia de Computação pela Universidade Federal de Itajubá (UNIFEI), com interesse nas áreas de robótica, programação embarcada, programação orientada a objetos e eletrônica. Participei do projeto Dev U, onde desenvolvi habilidades em C# e Unity, aplicando conceitos de programação orientada a objetos e desenvolvimento de jogos. Atualmente, estou em processo de aprendizado e aprimoramento nas linguagens C, C++, C#, Java e Python.
 
 ---
 
 ## Linguagens 💻
 
 <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Logo da linguagem Python" />
-    <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="Logo da linguagem C" />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="Logo da linguagem C++" />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="Logo da linguagem C#" />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Logo da linguagem Python" />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Logo da linguagem Java" />
 </div>
 
 ---
