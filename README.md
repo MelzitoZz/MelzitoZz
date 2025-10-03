@@ -53,9 +53,13 @@ Sou estudante de Bacharelado em Engenharia de Computação pela Universidade Fed
   <a href="https://www.instagram.com/guilherme_esber/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35" alt="Logo do Instagram" />
   </a>
+  
+  <!--
   <a href="https://discord.gg/vXPj84MD" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="35" alt="Logo do Discord" />
   </a>
+  -->
+  
   <a href="mailto:guilherme.esber@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="Logo do Gmail" />
   </a>
@@ -80,6 +84,7 @@ Sou estudante de Bacharelado em Engenharia de Computação pela Universidade Fed
   <img alt="Gráfico de Contribuição - Cobrinha" src="https://raw.githubusercontent.com/MelzitoZz/MelzitoZz/output-cobrinha/github-contribution-grid-snake.svg">
 </picture>
 -->
+
 ---
 
 <picture>
