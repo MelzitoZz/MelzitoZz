@@ -71,6 +71,7 @@ Sou estudante de Bacharelado em Engenharia de Computação pela Universidade Fed
   </a>
 </div>
 
+<!--
 ---
 
 <picture>
@@ -78,7 +79,7 @@ Sou estudante de Bacharelado em Engenharia de Computação pela Universidade Fed
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MelzitoZz/MelzitoZz/output-cobrinha/github-contribution-grid-snake.svg">
   <img alt="Gráfico de Contribuição - Cobrinha" src="https://raw.githubusercontent.com/MelzitoZz/MelzitoZz/output-cobrinha/github-contribution-grid-snake.svg">
 </picture>
-
+-->
 ---
 
 <picture>
