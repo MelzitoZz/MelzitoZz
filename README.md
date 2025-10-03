@@ -4,7 +4,7 @@
   <br>
   [![GitHub followers](https://img.shields.io/github/followers/MelzitoZz?style=social)](https://github.com/MelzitoZz)
   <br>
-  [![👀](https://hits.sh/github.com/MelzitoZz.svg?label=👀%20visitas&color=2b9348&style=flat-square)](https://hits.sh/github.com/MelzitoZz/)
+  [![](https://hits.sh/github.com/MelzitoZz.svg?label=:&color=2b9348&style=flat-square)](https://hits.sh/github.com/MelzitoZz/)
   <br>
   <b>Visitantes</b>
   <br>
