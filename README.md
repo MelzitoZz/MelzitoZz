@@ -4,11 +4,12 @@
   <br>
   [![GitHub followers](https://img.shields.io/github/followers/MelzitoZz?style=social)](https://github.com/MelzitoZz)
   <br>
-  <img src="https://profile-counter.glitch.me/MelzitoZz/count.svg" />
+  [![👀](https://hits.sh/github.com/MelzitoZz.svg?label=👀%20visitas&color=2b9348&style=flat-square)](https://hits.sh/github.com/MelzitoZz/)
   <br>
-  <b>Visitantes 👀</b>
+  <b>Visitantes</b>
   <br>
 </div>
+
 
 ---
 
